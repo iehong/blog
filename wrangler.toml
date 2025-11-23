@@ -1,0 +1,13 @@
+# Cloudflare Wrangler 配置文件
+# 用于部署 Hexo 静态博客到 Cloudflare Workers
+
+name = "blog"
+compatibility_date = "2025-11-23"
+assets = { directory = "./public" }
+
+# 对于 Hexo 静态网站，建议使用 Cloudflare Pages 而不是 Workers
+# 因为 Pages 专门为静态网站优化
+
+# 如果您确实需要使用 Workers，请取消注释以下配置
+# main = "dist/index.js"
+# assets = { directory = "./public" }
