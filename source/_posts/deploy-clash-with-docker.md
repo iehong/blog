@@ -6,9 +6,7 @@ tags:
   - Clash
 categories:
   - 技术分享
-description: >-
-  本文介绍了如何在 Linux 系统下使用 Docker 部署 Clash 服务，以便更方便地访问国外网站和服务。通过 Docker
-  部署，不仅简化了安装过程，还提升了系统的可维护性和跨平台兼容性
+description: 本文介绍了如何在 Linux 系统下使用 Docker 部署 Clash 服务，以便更方便地访问国外网站和服务。通过 Docker 部署，不仅简化了安装过程，还提升了系统的可维护性和跨平台兼容性
 abbrlink: 42629
 date: 2025-03-06 00:54:22
 ---
